@@ -1,6 +1,6 @@
 ### Hi, I'm Gurgen 👋
 
-I build tools for developers — start/stop projects instantly, switch between projects instantly without losing context, run multiple AI agents on one codebase.
+I build tools for developers — start/stop projects instantly, switch between projects instantly without losing context, run multiple AI agents on one codebase no branch juggling, no conflicts
 
 #### [lpm](https://github.com/gug007/lpm) — Local Project Manager
 
