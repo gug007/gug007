@@ -1,6 +1,6 @@
 ### Hi, I'm Gurgen 👋
 
-I build tools for developers working with AI coding agents — less context switching, more shipping.
+I build tools for developers — start/stop projects instantly, switch without losing context, run multiple AI agents on one codebase.
 
 #### [lpm](https://github.com/gug007/lpm) — Local Project Manager
 
