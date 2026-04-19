@@ -1,11 +1,11 @@
 ### Hi, I'm Gurgen 👋
 
-I build tools for developers working with AI coding agents.
+I build tools for developers working with AI coding agents — less context switching, more shipping.
 
 
 #### [lpm](https://github.com/gug007/lpm) — Local Project Manager
 
-One click to start, stop, or duplicate your dev projects. Run Claude Code, Codex, and other AI agents in parallel on the same codebase — no conflicts, no context switching.
+One click to start, stop, or duplicate your dev projects. Run Claude Code, Codex, and other AI agents in parallel on the same codebase — no branch juggling, no conflicts.
 
 <a href="https://github.com/gug007/lpm">
   <img src="https://raw.githubusercontent.com/gug007/lpm/main/website/public/screenrecording/start-project-claude.gif" width="300" alt="lpm demo">
