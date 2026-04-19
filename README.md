@@ -1,6 +1,6 @@
 ### Hi, I'm Gurgen 👋
 
-I build native macOS tools for developers working with AI coding agents.
+I build tools for developers working with AI coding agents.
 
 ---
 
