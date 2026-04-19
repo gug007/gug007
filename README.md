@@ -22,4 +22,4 @@ Hold a hotkey, speak, release — your words are typed into any app. 100% local,
   <img src="https://raw.githubusercontent.com/gug007/voice-to-text/main/docs/demo.gif" width="300" alt="voice-to-text demo">
 </a>
 
-[Download for macOS →](https://github.com/gug007/voice-to-text/releases/latest) · [Source](https://github.com/gug007/voice-to-text)
+[Download for macOS →](https://voicetotext.cc) · [Source](https://github.com/gug007/voice-to-text)
