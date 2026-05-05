@@ -5,3 +5,5 @@ I build tools for developers — start/stop projects instantly, switch between p
 [lpm](https://github.com/gug007/lpm) — one click to start, stop, or duplicate your dev projects. Run Claude Code, Codex, and other AI agents in parallel on the same codebase — no branch juggling, no conflicts. [https://lpm.cx](https://lpm.cx)
 
 [voice-to-text](https://github.com/gug007/voice-to-text) — hold a hotkey, speak, release — your words are typed into any app. 100% local, runs on the Apple Neural Engine. A free alternative to Wispr Flow and Superwhisper, built for prompting AI coding agents by voice. [https://voicetotext.cc](https://voicetotext.cc)
+
+[clipboard-history](https://github.com/gug007/clipboard-history) — never lose what you copy. ⇧⌘V brings back everything — text, links, screenshots, files — paste any of it in any order. Stays on your Mac, skips passwords automatically. [https://clipboard-history.cc](https://clipboard-history.cc)
