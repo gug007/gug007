@@ -1,6 +1,6 @@
 ### Hi, I'm Gurgen 👋
 
-I build tools for developers — start/stop projects instantly, switch between projects instantly without losing context, run multiple AI agents on one codebase no branch juggling, no conflicts.
+I build tools for developers to help them build better products faster.
 
 [lpm](https://github.com/gug007/lpm) — one click to start, stop, or duplicate your dev projects. Run Claude Code, Codex, and other AI agents in parallel on the same codebase — no branch juggling, no conflicts. [https://lpm.cx](https://lpm.cx)
 
